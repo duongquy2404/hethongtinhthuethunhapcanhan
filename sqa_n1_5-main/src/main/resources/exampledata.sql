@@ -1,0 +1,1 @@
+insert into cccd values (1,'2010-02-28','CA-PhuTho',132387249);
